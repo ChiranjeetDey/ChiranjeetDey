@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Data**
 
+- 📫 How to reach me **chiranjeetdey@gmail.com**
+
 - ⚡ Fun fact **I Can Speak 3 languages🙂**
 
 <h3 align="left">Connect with me:</h3>
