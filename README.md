@@ -1,3 +1,4 @@
+![logo](https://github.com/ChiranjeetDey/ChiranjeetDey/blob/main/20230717_234746_0000.png)
 <h1 align="center">Hi 👋, I'm Chiranjeet Dey</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
@@ -15,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chiranjeet-dey-169a651b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chiranjeet-dey-169a651b2" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/chiranjeetdey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chiranjeetdey" height="30" width="40" /></a>
-<a href="https://instagram.com/@happywithksp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@happywithksp" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chiranjeet-dey-169a651b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chiranjeet-dey-169a651b2" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/chiranjeetdey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chiranjeetdey" height="30" width="40" /></a>
+<a href="https://instagram.com/happywithksp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@happywithksp" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/chiranjeetdey9?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/chiranjeetdey9?hr_r=1" height="30" width="40" /></a>
 </p>
 
